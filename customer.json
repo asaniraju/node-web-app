@@ -1,0 +1,13 @@
+{
+     "firstName": "raju",
+     "lastName": "asani",
+     "age": 25,
+     "address":
+     {
+         "streetAddress": "8-55",
+         "city": "sircilla",
+         "state": "telangana",
+         "postalCode": "505405"
+     },
+     "phoneNumber": "8897728065"
+ }
